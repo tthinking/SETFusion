@@ -1,7 +1,7 @@
 # SETFusion
 
 SETFusion is now under the second-round revision. The source code and trained model will be released once accepted.
-
+ <!--
 ## Computational efficiency comparison of different methods on TNO dataset
 
 
@@ -18,3 +18,4 @@ SETFusion is now under the second-round revision. The source code and trained mo
 |TCCFusion|		0.1220 |0.19 |
 |CrossFuse |	1.0636 |	20.64 |
 |SETFusion|	0.2069 |	0.32|
+-->
