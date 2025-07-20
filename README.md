@@ -29,7 +29,7 @@ SETFusion is now under the second-round revision. The source code and trained mo
 
 ### Comparison with SOTA image fusion modules.
 | Methods     | End-to-End | Convolutional Operation | Pyramid Semantic Transformer | Multi-scale Semantic Transformer | VIF Loss | Unsupervised | Generalization Ability |
-|-------------|------------|--------------------------|-------------------------------|----------------------------------|----------|--------------|-------------------------|
+|:-----------:|:----------:|:------------------------:|:-----------------------------:|:--------------------------------:|:--------:|:------------:|:-----------------------:|
 | GTF         | ✘          | ✘                        | ✘                             | ✘                                | ✘        | ✘            | ✘                       |
 | RFN-Nest    | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✘            | ✔                       |
 | PMGI        | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✘                       |
