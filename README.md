@@ -28,17 +28,18 @@ SETFusion is now under the second-round revision. The source code and trained mo
 ![Image](figs/objectDetection.png)
 
 ### Comparison with SOTA image fusion modules.
-| Methods |End-to-End|Convilutional Operation|Pyramid Semantic Transformer|Multi-scale Semantic Transformer  | VIF Loss | Unsupervised  | Generalization Ability |
-| :---: | :---: | :---: || :---: | :---: | :---: || :---: | :---: | 
-| GTF |  |  | | | | | |
-|RFN-Nest|&#10003	 | | | | | | | |
-|PMGI| | | | | | | | |
-|FusionGAN|		 | | | | | | | |
-|MFEIF|	 || | | | | | |
-|GANMcC||	 | | | | | | |
-|PPT Fusion| |  | | | | | | |
-|DATFuse|	  	|  | | | | | | |
-|TCCFusion|	  |  | | | | | | |
-|CrossFuse |  |	  | | | | | | |
-|MMDRFuse |  |	  | | | | | | |
-|SETFusion|	  |	 | | | | | | |
+| Methods     | End-to-End | Convolutional Operation | Pyramid Semantic Transformer | Multi-scale Semantic Transformer | VIF Loss | Unsupervised | Generalization Ability |
+|-------------|------------|--------------------------|-------------------------------|----------------------------------|----------|--------------|-------------------------|
+| GTF         | ✘          | ✘                        | ✘                             | ✘                                | ✘        | ✘            | ✘                       |
+| RFN-Nest    | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✘            | ✔                       |
+| PMGI        | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✘                       |
+| FusionGAN   | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✘                       |
+| MFEIF       | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✔                       |
+| GANMcC      | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✔                       |
+| PPT Fusion  | ✘          | ✘                        | ✘                             | ✘                                | ✘        | ✘            | ✘                       |
+| DATFuse     | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✔                       |
+| TCCFusion   | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✔                       |
+| CrossFuse   | ✘          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✘                       |
+| MMDRFuse    | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✔                       |
+| SETFusion   | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✔                       |
+
