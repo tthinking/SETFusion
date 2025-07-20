@@ -1,6 +1,10 @@
 # SETFusion
 
 SETFusion is now under the second-round revision. The source code and trained model will be released once accepted.
+
+### Visualizations of the feature maps from the proposed PSTM and MSTM modules.
+![Image](figs/featureMaps.png)
+
  <!--
 ## Computational efficiency comparison of different methods on TNO dataset
 
@@ -20,5 +24,5 @@ SETFusion is now under the second-round revision. The source code and trained mo
 |SETFusion|	0.2069 |	0.32|
 -->
 
-### Comparison on the downstream task, i.e., object detection
+### Comparison on the downstream task, i.e., object detection.
 ![Image](figs/objectDetection.png)
