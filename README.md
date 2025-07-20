@@ -21,4 +21,4 @@ SETFusion is now under the second-round revision. The source code and trained mo
 -->
 
 ### Comparison on the downstream task, i.e., object detection
-![Image text]([https://github.com/tthinking/SETFusion/tree/main/figs/object detectiob.png)
+![Image text]([https://github.com/tthinking/SETFusion/tree/main/figs/objectDetectiob.png)
