@@ -19,3 +19,6 @@ SETFusion is now under the second-round revision. The source code and trained mo
 |CrossFuse |	1.0636 |	20.64 |
 |SETFusion|	0.2069 |	0.32|
 -->
+
+### Comparison on the downstream task, i.e., object detection
+![Image text]([https://github.com/tthinking/SETFusion/tree/main/figs/object detectiob.png)
