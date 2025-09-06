@@ -42,3 +42,17 @@ SETFusion is now under the second-round revision. The source code and trained mo
 | MMDRFuse    | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✔                       |
 | SETFusion   | ✔          | ✔                        | ✔                             |  ✔                               |  ✔        | ✔            | ✔                       |
 
+### A detailed quantitative comparison of different methods on RoadScene dataset
+
+<p align="center">
+  <img src="figs/Q_SF.jpg" width="49%">
+  <img src="figs/LMI.jpg" width="49%">
+</p>
+<p align="center">
+  <img src="figs/AG.jpg" width="49%">
+  <img src="figs/EI.jpg" width="49%">
+</p>
+<p align="center">
+  <img src="figs/N_ab_f.jpg" width="49%">
+  <img src="figs/DF.jpg" width="49%">
+</p>
