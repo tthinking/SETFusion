@@ -27,6 +27,23 @@ SETFusion is now under the third-round revision. The source code and trained mod
 | MMDRFuse    | ✔          | ✔                        | ✘                             | ✘                                | ✘        | ✔            | ✔                       |
 | SETFusion   | ✔          | ✔                        | ✔                             |  ✔                               |  ✔        | ✔            | ✔                       |
 
+
+### A detailed quantitative comparison of different methods on TNO dataset
+
+<p align="center">
+  <img src="figs/TNO/Q_SF.jpg" width="49%">
+  <img src="figs/TNO/LMI.jpg" width="49%">
+</p>
+<p align="center">
+  <img src="figs/TNO/AG.jpg" width="49%">
+  <img src="figs/TNO/EI.jpg" width="49%">
+</p>
+<p align="center">
+  <img src="figs/TNO/N_ab_f.jpg" width="49%">
+  <img src="figs/TNO/DF.jpg" width="49%">
+</p>
+
+
 ### A detailed quantitative comparison of different methods on RoadScene dataset
 
 <p align="center">
