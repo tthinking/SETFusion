@@ -1,5 +1,5 @@
 
-SETFusion is now under the third-round revision. The source code and trained model will be released once accepted.
+SETFusion is now under the fourth-round revision. The source code and trained model will be released once accepted.
 
 
 ### Comparison on the downstream task, i.e., object detection.
