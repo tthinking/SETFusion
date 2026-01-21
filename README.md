@@ -1,5 +1,7 @@
 
-SETFusion is now under the fourth-round revision. The source code and trained model will be released once accepted.
+#  SETFusion: A Semantic Transformer for Infrared and Visible Image Fusion (PR 2026)
+
+This is the official implementation of the SETFusion model proposed in the paper ([SETFusion: A Semantic Transformer for Infrared and Visible Image Fusion ]([https://www.sciencedirect.com/science/article/pii/S0031320324005739?via%3Dihub](https://authors.elsevier.com/sd/article/S0031-3203(26)00093-2))) with Pytorch.
 
 
 ### Comparison on the downstream task, i.e., object detection.
@@ -81,3 +83,27 @@ SETFusion is now under the fourth-round revision. The source code and trained mo
 | DDBFusion  | 0.9775 | 5.86         | 184.93    |
 | DCEvo    | 0.2505   | 2.23           | 2336.42   |
 | SETFusion          | 0.2069   | 0.32           | 18.14     |
+
+
+# Cite the paper
+If this work is helpful to you, please cite it as:</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@ARTICLE{Tang_2026_SETFusion,
+  author={Tang, Wei and He, Fazhi and Zhang, Lin and Zhao, Shengjie },
+  journal={Pattern Recognition}, 
+  title={SETFusion: A Semantic Transformer for Infrared and Visible Image Fusion}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={},
+  doi={10.1016/j.patcog.2026.113130}}"><pre class="notranslate"><code>@ARTICLE{Tang_2026_SETFusion,
+  author={Tang, Wei and He, Fazhi and Zhang, Lin and Zhao, Shengjie },
+  journal={Pattern Recognition}, 
+  title={SETFusion: A Semantic Transformer for Infrared and Visible Image Fusion}, 
+  year={2026},
+  volume={  },
+  number={ },
+  pages={},
+  doi={10.1016/j.patcog.2026.113130}}
+</code></pre></div>
+
+If you have any questions,  feel free to contact me (<a href="mailto:weitang@tongji.edu.cn">weitang@tongji.edu.cn</a>).
