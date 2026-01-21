@@ -1,7 +1,8 @@
 
 #  SETFusion: A Semantic Transformer for Infrared and Visible Image Fusion (PR 2026)
 
-This is the official implementation of the SETFusion model proposed in the paper ([SETFusion: A Semantic Transformer for Infrared and Visible Image Fusion ]([https://www.sciencedirect.com/science/article/pii/S0031320324005739?via%3Dihub](https://authors.elsevier.com/sd/article/S0031-3203(26)00093-2))) with Pytorch.
+This is the official implementation of the SETFusion model proposed in the paper ([SETFusion: A Semantic Transformer for Infrared and Visible Image Fusion](https://authors.elsevier.com/sd/article/S0031-3203(26)00093-2)) with Pytorch.
+
 
 
 ### Comparison on the downstream task, i.e., object detection.
