@@ -93,17 +93,17 @@ If this work is helpful to you, please cite it as:</p>
   journal={Pattern Recognition}, 
   title={SETFusion: A Semantic Transformer for Infrared and Visible Image Fusion}, 
   year={2026},
-  volume={},
+  volume={175},
   number={},
-  pages={},
+  pages={113130},
   doi={10.1016/j.patcog.2026.113130}}"><pre class="notranslate"><code>@ARTICLE{Tang_2026_SETFusion,
   author={Tang, Wei and He, Fazhi and Zhang, Lin and Zhao, Shengjie },
   journal={Pattern Recognition}, 
   title={SETFusion: A Semantic Transformer for Infrared and Visible Image Fusion}, 
   year={2026},
-  volume={  },
-  number={ },
-  pages={},
+  volume={175},
+  number={},
+  pages={113130},
   doi={10.1016/j.patcog.2026.113130}}
 </code></pre></div>
 
